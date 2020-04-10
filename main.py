@@ -4,7 +4,7 @@ for x in xrange(1, 200):
     buzz = not x % 5
  
     if fizz and buzz :
-        print "FizzBuzz"
+        print "Hello World"
     elif fizz:
         print "Fizz"
     elif buzz:
